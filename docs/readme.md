@@ -1,5 +1,9 @@
 # Why this project?
-I just installed `zapret-v72.2` version ([link](https://github.com/bol-van/zapret/releases/tag/v72.2)) and configured it, after that I just pushed it here, thats all.
+I just installed `zapret-v72.2` version ([link](https://github.com/bol-van/zapret/releases/tag/v72.2)) and configured it, after that I just pushed it here, thats all. </br>
+
+If you liked this repository, you can `star` it.</br>
+Thats also this project spread wide.</br>
+Thank you if you did it, have a great day.
 
 # How to use?
 
@@ -118,6 +122,7 @@ my information is just a sand particle in the beach.
 if you want to see the whole beach;
 you need to see every particle with its own perspective.
 ```
+
 
 
 
